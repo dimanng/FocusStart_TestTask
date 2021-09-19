@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FocusStart_TestTask": {
+      "commandName": "Project",
+      "commandLineArgs": "-i -d out.txt Test.txt Test2.txt"
+    }
+  }
+}
